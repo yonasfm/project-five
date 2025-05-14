@@ -1,10 +1,10 @@
 // src/App.jsx
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/navbar/Navbar'
-import Home from './components/Home'
-import NewExercise from './components/NewExercise'
-import EditExercise from './components/EditExercise'
-import WorkoutList from './components/WorkoutList'
+import Home from './components/Homepage/Home'
+import NewExercise from './components/NewExercise/NewExercise'
+import EditExercise from './components/EditExercise/EditExercise'
+import WorkoutList from './components/WorkoutList/WorkoutList'
 
 
 
